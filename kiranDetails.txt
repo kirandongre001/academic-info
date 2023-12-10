@@ -1,0 +1,99 @@
+
+User ID = 230945920046
+Password = 
+
+Pesronal Details 
+Name : Kiran Dongre
+Email ID = 
+				Primary - kirandongre001@gmail.com
+				Secondary - kikky963@gmail.com
+DOB= 23/11/1996
+mobile no- 9131886090
+           9607475679
+		   
+skype id - live:.cid.42b0ec781fd544d9
+
+current address- shree sai hostel near dragan chinese, om super market,model colony, pune pin-411016
+permanent address-village- dabheri post-khedisawligarh tehsil/dist- betul state-madhya pradesh pin-460225
+
+Acedemic details-
+SSC- School- Sanjeevani Higher Secondary School, Betul
+     Board- Board of Secondary Education, Madhya Pradesh, bhopal
+	 marks ob- 521
+	 total- 600
+     %- 86.86
+	 YoP- 04-06-2012
+	 stream- general
+	 
+HSC-School- Sanjeevani Higher Secondary School, Betul
+     Board- Board of Secondary Education, Madhya Pradesh, bhopal
+	 marks ob- 427
+	 total- 500
+     %- 85.40
+	 YoP- 15-05-2014
+	 stream- science
+	 
+Graduation
+    Qualification- B.Sc.(honours) computer science 
+	               subsidiary -mathematics
+    College- Institue for Excellence in higher education ,bhopal
+	University- Barkatullah Vishwavidyalaya bhopal
+	stream- science
+	total backlog-0
+	attempt-1
+	duration -3 year
+	
+	sem           marks                 total  
+	 1            765                   1200
+	 2            829				    1200
+	 3			  825					1200
+	 4			  855					1200
+	 5			  886					1200
+	 6			  831					1200
+	 
+	 total-    4991  / 7200
+	 %- 69.31
+	 division- first
+	 
+	 
+	 passsing year- 06-06-2017
+	 
+	 date of admission-01-07-2014
+	 
+	 
+post graduation 
+	 Qualification- Master of Computer Application
+    College- Technocrat Institue of Technology ,bhopal
+	University- Rajiv Gandhi proudyogiki vishwavidyalaya bhopal
+	stream- Computer Application
+	total backlog-0
+	attempt-1
+	duration -3 year
+	
+	sem           marks                 total   
+	 3			  867					1000
+	 4			  1000					1000
+	 5			  927					1000
+	 6			  800					1000
+	 
+	 total-    907  / 1000
+	 %- 90.07
+	 division- first
+	 
+	 
+	 passsing year- 13-06-2022
+	 
+	 date of admission-01-07-2019
+	 
+Acedemic project-
+    cdac-
+	Name of project- Swift Rides
+	platform- .net
+	duration-4
+	description-
+	
+    1.Drive ok
+    2. Online voting System
+
+	 
+	 
